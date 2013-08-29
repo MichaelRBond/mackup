@@ -44,7 +44,7 @@ except ImportError:
 # Commonly used paths #
 #######################
 
-MACKUP_DB_PATH = 'Mackup'
+MACKUP_DB_PATH = 'z.App Syncing/Mackup'
 PREFERENCES    = 'Library/Preferences/'
 APP_SUPPORT    = 'Library/Application Support/'
 
@@ -87,7 +87,8 @@ SUPPORTED_APPS = {
              '.bashrc',
              '.profile',
              '.bash_profile',
-             '.inputrc'],
+             '.inputrc',
+             '.splash'],
 
     'Bash it': ['.bash_it'],
 
