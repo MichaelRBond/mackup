@@ -102,6 +102,8 @@ SUPPORTED_APPS = {
 
     'BibDesk': [PREFERENCES + 'edu.ucsd.cs.mmccrack.bibdesk.plist'],
 
+    'Bin': ['bin'],
+
     'Boto': ['.boto'],
 
     'Bundler': ['.bundler'],
